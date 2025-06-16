@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+notebook = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+requests = "*"
 
 [dev-packages]
 
