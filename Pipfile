@@ -11,6 +11,8 @@ pandas = "*"
 requests = "*"
 scikit-learn = "*"
 scipy = "*"
+seaborn = "*"
+plotly = "*"
 
 [dev-packages]
 
